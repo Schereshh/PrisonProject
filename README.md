@@ -18,7 +18,7 @@ A projektünk öt tárolt eljárást tartalmaz, amelyek közül vannak egyszerű
 
 - **Személyzet felvétele**
     
-    Ez a tárolt eljárás paraméterkéne befogad három értéket
+    Ez a tárolt eljárás három paramétert fogad be
     
     - a felvenni kívánt alkalmazott neve
     - az épület azonosító száma
