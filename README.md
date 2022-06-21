@@ -105,16 +105,16 @@ A projektünk öt tárolt eljárást tartalmaz, amelyek közül vannak egyszerű
     
     ```markdown
     C##INFO3> BEGIN
-    					    fireStaff('Becze Balázs');
-    					end;
-    					/
+    		    fireStaff('Becze Balázs');
+       		  end;
+    		  /
     [2022-06-21 19:47:29] completed in 134 ms
     You cant fire an active guard
     ```
     
 - **Börtönrab felvétele**
     
-    Ez a projekt legkomplexebb eljárása (*közel kétszáz soros),* aminek segítségével a rabok automatikusan bekerülnek a megfelelő adatokkal az adatbázisba.
+    Ez a projekt legkomplexebb eljárása *(közel kétszáz soros),* aminek segítségével a rabok automatikusan bekerülnek a megfelelő adatokkal az adatbázisba.
     
     Az eljárás paraméterei:
     
