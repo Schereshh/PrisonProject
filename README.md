@@ -30,7 +30,7 @@ A projektünk öt tárolt eljárást tartalmaz, amelyek közül vannak egyszerű
     
     ```sql
     BEGIN
-        addStaff('Elekes Csaba', 4, 'Guard');
+        addStaff('Istenes Mátyás', 4, 'Guard');
     end;
     ```
     
