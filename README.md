@@ -140,7 +140,7 @@ A projektünk öt tárolt eljárást tartalmaz, amelyek közül vannak egyszerű
     
     Pl. ha valaki rablást követett el (severity 1), akkor olyan őr kerülhet hozzá, akinek gumibotja van (lethality level 1), viszont ha valaki gyilkosságot követett el (severity 3), akkor olyan őr kerülhet csak hozzá, akinek gépkarabélya van (lethality level 3). 
     
-    Miután az eljárás talált a rabnak egy megfelelő őrt, keres neki egy megfelelő cellát is.
+    Miután az eljárás talált a rabnak egy megfelelő őrt, keres neki egy megfelelő cellát is a *pickCell* függvény segítségével.
     
     Ez hasonlóan működik az őr kiválasztáshoz:
     
